@@ -1,0 +1,2002 @@
+[
+  {
+    "fingerprint": "ddfd70d3-d58a-4ed8-bfd1-df1444aa556a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0a00b909-c2d2-447a-a83e-29710fe14c75",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "15b97c22-3719-43ce-9d59-9e286d4f7f2b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7725cdd6-00a6-43f3-a7ff-f9dbd32ee104",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "326b30aa-0ac0-464a-8782-6a9b9da04477",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "acad5992-a867-4649-86c8-cbec5eb90426",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c1d9a117-4e40-46f9-a916-1f4067215ae9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "66fc3fbb-95a5-43c0-af22-22c1a60c63aa",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "430276be-0495-4db2-b877-88cd015f4cbb",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "75ce0ea3-fbd5-490f-9db9-e3e618486497",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9fb9c17b-a2a8-46d2-8e71-bb2847d52b76",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f6d9553c-fb11-4fb0-9912-a03fa752cb03",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "da8546ed-cef3-48bc-a33a-49e01a82bdc1",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8b4855fb-009c-4bcb-a740-f5505420be36",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "82f83f65-a82d-4a4a-b124-e0cffa8e2360",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1737a0f8-8c98-4807-8c7f-d8dd4a848659",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "22f0de4e-4d97-4e69-b226-82782bb9151f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c285b87b-df97-47c0-ace1-23691f6c3aed",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1058f7c8-8e5e-4b4e-b8e4-69a482c4c10a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "88b4862b-85bb-4787-802a-b38aa6973c28",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f67487b6-a60c-4210-a5a2-9fa82aae1591",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ebc3b051-2e10-4d8a-8331-f23abc0b9f58",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "54f2d5bf-dc41-460a-a342-9d8369f9ef69",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1d27d8c2-4fb6-4522-b0a3-158bc5e60853",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0ef504e0-309e-46c3-ac35-c287f0bfd50f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7a21e522-d5f3-4b5b-ac0a-001fa11ef392",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "58b7bb65-5c35-4072-bdf5-8244e4c19b58",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ed123eb4-aa10-4b81-98c1-569d7e813d1e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "17315a78-fec6-4809-8178-60fbffe61652",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "da8d7f24-b0f5-40ca-8095-8a24f9e651f3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e93b33b4-2581-41f2-a36c-1cbe307c1734",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d5ee3d4f-072b-4d1a-9f86-56fa6ee51552",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "21d72b94-80ec-40f2-9ad0-51ebb8256a3e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e5fb1a7e-f945-4df0-a052-1148a9b8804d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "93a4cee3-bf7c-43be-88da-6ba7c79fa4d4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ffa9f966-5999-4972-bf5f-d2b4192c6f51",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f9886793-e4aa-4d42-810c-2eed6cedbd46",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "51f45ba3-72b8-4e05-be29-7d636d8b5184",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1d451558-0928-43b4-96bf-303ae1258c95",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e462330e-9b27-4cb2-9435-5c576443f17a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "dab07fd5-e946-477c-880f-8d3a4edf33a0",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "948bd3ea-6942-488e-8269-0c9d7a1f3ff9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "34dda8b6-b887-4102-b6c3-b22f816627b4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fc127557-d77f-4aaa-9b17-458d458477c2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8555b7c1-32e3-453c-976e-82cce61c0b83",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6af37e3d-154b-4baa-b7a2-5f73f41e4785",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a0d20fac-bb29-47bb-8b91-903f06735753",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "450110be-dfe6-44c6-b597-96c03bee641e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8cc85c21-2531-4c70-9f2e-03f697bee6fc",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e4b5574a-2caa-4b0e-9118-2282066c9560",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "729035fa-5a82-47e5-aeed-b9b7d3141f28",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "68b94eff-3eac-4544-bd34-42ccff2a135f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ff1bbebf-dfb4-4d53-8f44-934952cca67c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "22b027ef-95d8-4d43-af43-78af39f2296f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b71e314e-cc36-409a-89dd-1e955e895b81",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "99b473f6-9647-48c4-b6de-b1afc8c8f028",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b18a84d4-f9b4-4a99-9240-c2ab0d3d351a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bdedc383-2ea3-46f0-8f5e-28741531bd86",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "29ec6f5c-eed2-4708-bb30-5f6ca8a2629d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "eb9282ab-13ef-4b3f-ac5f-10751e6b83b3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "01dc1d82-b25e-4b66-b09b-9f15fd90d0d7",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "22b59487-b61d-4394-89f6-c988df5ea5ea",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5233cb60-3a8b-4ea5-bb43-d72c1995f235",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5572d160-d190-4a27-9e16-4b53ce51d8d5",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4175eda8-6781-4e3f-9574-8447d9717cd3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bb330d25-c4f3-4724-8af3-77658742e9d4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ba21f8b1-0c3b-4533-8598-738cf73a9d52",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "00ba25b8-5979-4cb7-a24d-925e7651004f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9d43651f-9955-405d-99af-11a5e7a9fef2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4f02e02e-2b9e-4ab8-824f-14e30443215a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4b8c1500-0bed-4192-99b3-31d54001af25",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "43dae2f3-cb7b-4dd5-8c21-963974a1520b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d9f6e187-d489-4116-a9c3-1e163df448ba",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ce531f04-c9ea-4a8d-92b5-087069be914e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a612c434-73b9-4349-8f22-4612d3a2aac7",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "961a396f-fed1-4650-b832-3f0f2cebdc20",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e2844bf2-0f2c-4b41-ad0f-eab787867b4d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6994f41d-2ee6-43fd-af40-b6ed6ffe8ecc",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "cda41c59-7c33-45c4-97b6-30f06c7b61d7",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "577086e9-de6c-4e93-9c6e-9efda6dac014",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "328ae5d8-fd08-4ef4-b278-76bec12f9802",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e5588a17-b94b-481a-b880-65489ce63241",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5e7a046b-c831-4ba5-835e-712803787b60",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8a46bfd8-03f0-4512-87f8-7c823fb73627",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2a8f2e7d-4479-4444-ba4a-fd7be4f3bbb4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7c10c77d-1f8a-4877-bbe0-2442d1f497a4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "301b1f50-d8fe-4ea8-a8eb-63ee92516738",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2fbfa4e2-e5f3-46be-9932-5b4ded3ec195",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6b75322b-658e-47c1-9b49-90e56d24af1a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d6d0c91e-09c8-4dff-b0ba-ec716636ee15",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3ac73d63-a026-4d86-a37c-ba823f5067dc",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7b9d7694-bdf7-4aa1-8dd5-fde2dc14c6c1",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2b4407dd-6caa-48ae-9082-92b3e6ef90c2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5df9a2b0-5ded-4d19-8ea8-a29e03b6404b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "63720d06-9dc5-474b-a8c3-c8d3d6bb8b23",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "60fcb6ee-0045-4111-91df-44bcff43b1ae",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bde2c7d9-4ee9-4c60-868c-67ad3b29a73b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1c329e3e-0a0c-4a8a-947f-41f491313be6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "071080ba-3ce5-44f3-b332-6444ec74fb7c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2a244e88-c40b-4462-98d2-1c160f14c119",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fb30bc71-21cd-4ee9-9c57-8d2b67707059",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e8b5c2b6-b777-40ec-af21-48c1249a18d7",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "115c00d2-7ac1-4810-962f-9b37c552f82f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9ea07684-1b1c-4b89-8409-f5cf8d14c747",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "75f0316c-3126-4f59-9d03-08388d5db5f7",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7c9e6ecc-d1d3-4206-9a87-5954efd680f9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fe4e593d-7a3d-4177-a200-015702ef13dc",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "38a8e427-9231-4755-be65-0b8b6d1ea847",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5d6c5199-0fc7-494c-a8a0-f5e37ba38cd6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "03ff4ef0-96d6-43ae-b9c8-34fb8630e775",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "303a169d-6527-4571-905e-9cc8ff7ebfca",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "505d31d4-40f7-4172-b5af-de8cdd94521b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "86b97967-1884-4b6b-879a-2829791a9ae5",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3da7805e-2db9-48d4-9ce5-e0df1f7a1214",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "768d014d-eec9-409d-acfd-4dfbf68aa87e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ec8d0d3d-a7d2-49c3-abf6-9cff2e4064e2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9fe0a44c-629f-41b4-b25d-4e3be44f9df8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0ecd4b9d-f600-4a88-b002-b6aacadd96ea",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7d8c560b-8b8e-4b0b-bf9a-8e20c87b7f44",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bea8c485-f1cd-493b-9e70-ca318c0d3986",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "00c92406-8237-45f7-9bc6-d60c25db1e0d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e00558b9-80f6-47ca-b8ce-ffd50be3f5ee",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "59f84b3a-b5b0-44b9-b2b2-a9bdca85f8e1",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "74fdeb68-5820-4828-9e50-986eec0bd2c6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7aba7347-645d-4de9-9855-72b9f99201f6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "00fa3b7c-b8a6-41e8-92f7-bfe7ebc1f9e4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "00bca1f8-e1a2-44a4-97e4-0831f5b026d5",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fed7b916-f102-4822-87c8-ba4475a1f630",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3bfb7c3c-c673-42ab-8924-601093a34e7f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2b593e30-b3c6-4ba5-9caf-d622370e6e66",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2a3c82ee-1837-467e-bd2c-3eb7a58af962",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e95c99f7-efe4-4e68-9593-af7717a4090d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7b8fa802-6587-4c03-8774-57a96a4ab016",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7b4d7a79-2b7e-4820-8946-e2576b5f753f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "dca4841b-3485-4edc-b3b6-7961b8d46089",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9781227e-6d96-46f1-814a-93b2aa053ed3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d8d4916f-657a-4ae1-ba01-8d0ea5c21d69",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3a5ba25c-6038-4ef2-bee1-fda1e9e5738f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fe27c136-2de9-43e9-81f8-7a1e215376bb",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "24588502-e507-42a8-9a38-db0780c12f9b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "084a5fdb-972e-4e7e-b8e0-bd2c13999148",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2cb504cd-f858-4e91-a71e-8d1fd44ccbbc",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "61dc55fc-9418-45a4-a02c-29766d9166ca",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2981936d-ce5b-4333-9073-af460c56195c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4711eee7-4769-4bbe-baa8-a36563a16271",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f641098e-8c60-45dc-a9df-1dbdef72107c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "97a09aba-9d19-4331-a4c0-713dc0a51ea1",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ce9cad4a-a381-4824-96b6-d0bb8b6af8b6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6f34b813-7989-4098-8e97-1bf8a5a4b3ec",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5af98405-3b0f-46b5-b6d8-c30d36ae5f6d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6ee7c5b6-bdf1-4633-aed9-acb6c50d9c15",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b376e9d0-9122-469c-8a82-32c29a3c66ea",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "af6e6b8a-b00e-4bd4-a0f1-3e174346e2b0",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "96f8be82-0a80-4d95-a651-d0347595a78d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ec8ba8bf-7cc7-464b-be1b-2b9c56534380",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "93a3bf40-8a27-4d48-b249-cf32f4f521d9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8cdb0225-34c0-4dd0-bb86-e6fdbb587853",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "14c0afef-de88-4314-b79b-589e4c7b8477",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "20e21939-b32c-47f0-aae0-f5620161ccf1",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8805305b-076f-4ae1-b591-428367065dc6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9274207f-1837-4dac-a73f-8830afa0a1d9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "cd2db641-fe54-4708-a892-1c20e564edc9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a353b89e-6b59-49c9-8899-66cb903be93e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a0e152f9-e5b8-459c-996e-7d81c504d25c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fe2b2d61-b30d-4c2f-aa48-285683ee9ddf",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9d8bd152-3a4c-4042-bcaa-0416e9039e9c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "cb104444-34ce-4688-8603-cd040a96e3af",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fe7d1fa5-3627-4cbd-9c35-6e86c371f58a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3bea39a3-4d97-42e8-8bf4-d3b6fde05983",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7c756638-7f61-4b13-b425-ca6e47c39c0e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f67864de-2ffa-4e40-ad8a-bb61fe04660c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2a512d42-b07b-4490-913b-f6b965c6c1e7",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3fecd7df-f8d8-495f-b501-d1c6f5bfae0b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fc848fb4-06cd-4686-9d6e-b509e06e6b61",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5f41fbf0-4d97-437a-9088-e0307e0193a5",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1cafdf32-36e1-4a80-9fb7-9375c41a8975",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "559a831b-66f9-42b6-b732-43927f82e1ba",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ab591585-73bf-4201-a0ba-f5f43f626eb3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "525bc756-e2bf-4c3d-a472-b902f3766754",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "702e14b3-1dfd-4cfc-bb5b-e7cf421c0258",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4ae43090-621e-4671-9bfc-ffed7e034752",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "596753a4-ce9d-41e7-a513-32c34136ca28",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a0390bc4-5c7a-4451-9ed6-913793d40f66",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fe8c91eb-058b-4faa-993c-ebfd3065dc2c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fc2d7c38-e61a-4e32-98b4-b1bc81effe2b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a745a7d5-bfbd-4f6e-ac2c-4b8d18fe16a4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bacb2c04-61f3-4215-a4c1-aada58ccb8ab",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3c430b14-4d32-43a3-acc7-fc4553809301",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d40e2652-d8d5-4c9d-9b90-61804c1e8542",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "65df9c66-911d-404c-948c-5ea9ef37e4db",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "87c1e3f7-9232-4aa4-92e6-5cd5ddafc2eb",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a407fff0-d9aa-4dc6-9b52-52977820d51a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7f9ba936-b538-41d2-8321-67e559edb67e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c45f8322-a2fe-4f7d-b108-743083d34e03",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9f8cbc58-c8af-4b9c-894e-51cf8ead0579",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "740ad1ae-02bc-48e7-83f0-9e1f3ac2e190",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a1757330-92ce-45ec-9b38-199cdbac37e4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f36bb833-66fa-4c73-af23-933dc1d9ddb9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a2a6880d-b753-4586-a4cb-574b40654782",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "65af5cf0-0a00-4b52-a250-912b3a48878f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "93eecbaa-18e6-4602-b389-61bdac3281b8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "942d332c-67c7-41aa-9649-3c31d077a2e9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bcf43651-d768-4450-afa7-8bcad93407f7",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "dc4989d5-6ed9-4486-ae8d-84fe60bcd689",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5466714e-0b1a-4674-89fa-6222d134293f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0a009ff4-fdbe-4ad9-958c-9bc9fdfb354f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "537c5ecb-2087-4964-b582-96f48b5f2b88",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "eda7bafb-367e-484b-90b2-956cd48a0a42",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a9f8ff7a-5dd2-40f5-a22c-6221b7092318",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "53380517-885c-4d58-9e73-0e159793d3f0",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "aecc5ed2-569f-4329-afc7-771cd923f2b1",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b4eb30d5-465f-4ab6-a0fc-81b0f2485098",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "cece8018-0330-4523-a5b5-3260f06ff14a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "48ba56d6-b1b2-4e4c-bdfc-f17501490fc2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c85aade7-e059-4294-9e5f-4d5dff0abe8b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d13126cb-93d2-4c8e-832e-191bc1b7ed24",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a7fac943-bb3e-4264-aeb0-c1123105b4eb",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f2d79fe7-ecaa-43df-bf81-1cc613544b9a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "51e36376-2edf-448f-9dde-5abe2abf5497",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f082d5bc-1f3c-48ca-b412-985723574ec6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d406bff7-291b-424d-a67b-1db40336cda9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f1274a64-af5a-4a64-bef8-3ae1fd47484f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "728f3058-703c-4a84-be4d-349c08a08fea",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "db07bc9c-d69f-43af-bb82-8f835471c0b1",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d6697e40-5f32-4780-9b0d-a87da14e30db",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "37e0c5d7-a93a-40e3-a8c4-d392239225ac",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9c3039c1-9835-4574-a417-d18bc3c0a4a8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2b4ea197-20e8-4e4b-a424-5a1c9108d16d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7b780ac3-c660-407b-bd39-3e860ee3fd26",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8c287512-ce21-40ed-b0fc-b81706f1223c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c97318c7-34d2-469a-8f4a-c5a945a0e6b0",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6f846d5c-9092-4ee9-aafb-ab182c3594e4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7df27880-45bb-409b-ab9b-429acaf45206",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "07e03f45-de7c-41eb-a7f3-88575970022c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "aa9742ed-0e73-48ff-ac9d-1ea9bfebe611",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b01ae768-13dd-41a1-b84e-194b349c4cb3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a3564d6f-9e74-42c7-b184-7bf80eaa3bd8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "90381ea6-6dab-41f6-be2e-8f1210af8d6d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "66e6fb0d-7ab0-4218-b699-5f99b3b1b149",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b678167d-0f56-4515-8ac5-08f639d34a26",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "67ab0d89-9a32-4f3d-b522-bf0e40c7dd48",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "99272733-02b3-4c31-832d-18d1668a8e2e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9767ab9f-6eb1-42ee-ba43-8c8f9ea6699e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8aeb343f-2030-42f5-b4c6-c86940d56c9f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3786293d-6f23-4f07-8ad0-5a35cd9103b8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "757ec37f-969b-418a-a768-e54da3c44949",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "195a6458-caf0-42c1-a5b0-f07c0f44b249",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fc2be92f-f60b-47f9-a4bd-7b8afcc6a5ee",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e46343ee-2708-4fa2-a136-f2ea0234aec1",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6139b18e-4a8b-4b9c-a64c-3b3ba6b25a51",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9790b818-d426-4942-ae0a-7b069312853b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "98b73958-dce1-4b46-87b5-48719fffe324",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b74276e8-a64e-43fd-9232-673f75b6ed98",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8a323797-24b6-4095-96b1-e72f73fa4871",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "46f3d0c9-2d1f-4967-b51b-c8cc129db288",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "cf6356fe-094c-4f70-8658-f04e0a8f453d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3602f0ec-12cc-4bba-88ce-1bae3b7a4193",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6225cb56-bafe-4630-ae00-ca25b3641c44",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "24106b43-3b2e-431f-8189-f1b7844c5a0d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f5bee96a-fa39-4d89-90af-626749d97af4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4e7a96b1-3ec5-4fb3-bf06-81c6b00187ae",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1fb53b8f-9449-47ba-b364-e06b5dc5ccfb",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9b67063b-7590-49de-b37e-00237489d7fc",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "866f7a2e-956f-422c-a711-a65217f14259",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0dcdcaf3-b0e9-4e9d-8b54-89957bf998c2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "60f85e56-cc1b-4782-a098-15a52dd7a598",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8da2a1d6-f535-4c04-8776-b37282cf5517",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8f7be4ff-9740-4025-a000-ab27d6ffc241",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a8e1d0bd-3876-48f9-ac13-75be0e6395b8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7c3f742e-5440-4e5b-b4ff-21ebaab80ce0",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f5cb895c-4a44-44f3-9004-bbded65d2b5d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b38761a5-e94c-4efe-b7cc-b45006abab83",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7dc26504-63c3-4cfe-83e0-a013fa2fc9b7",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "41117878-d7aa-4741-918f-105a92371e2e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fc1314ec-e1cd-4e1d-95cc-39e6bd121833",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "000fceda-98b2-40b3-b62e-057879eacbbe",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "60289c8a-17d4-42f7-b963-0d7980a8dc0e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "01b2a8cf-47f3-42d2-8e59-2edc420e7b3b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e121b248-77be-4702-9537-f9b2ef6a2604",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f43a955a-d533-42ba-8d0b-b8116db4f085",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2d96a8b2-2452-4bfd-9b13-61e21cc92361",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4c146018-780b-4da7-9515-40c5cd0c5d63",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9f8c9782-d7ac-4b2e-b9c5-216d7cc0560d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "59f7e787-0bc4-463b-bec3-734a7d10cde8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "999cf824-8304-4b00-a938-66c25d1080eb",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ad80b3cc-7acc-4999-beb3-742810b58262",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0e7bb537-1603-40e1-b6eb-f1b7f851e863",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "735a8e0a-f536-4829-9797-fe9ee68a26fc",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9c805ae7-ab8b-47f8-8b37-784525a3a39a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4c37a7a2-d603-4553-94c6-4bc4cddb0a36",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "72088d32-108f-43e8-a5ef-6cad1f19a0ec",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e6f2743e-044c-472c-8212-cb7cd46f0eb5",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c951dfd4-a7d1-49a9-baef-6506e0378be1",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4d138a57-bbad-4669-bd5f-caa138e85f6c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c98db34e-6bf4-4ae9-abbd-c0ba2a9971b2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d323ae0c-af78-4614-929d-a953c1d92901",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "37d6705a-e5f3-4df8-9cef-437c49ec18c6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bc6226f4-4078-49ee-85c3-15ec20dbd64f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fef87e5c-5293-4b0b-b0f1-c7a02a836906",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "23b9f5a5-da71-4209-a031-638ae7ac1af3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b7147ab7-ae61-48ea-88c9-106a791f9a0c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fdd13a33-533f-4730-8ca1-0872f7516b56",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "79e2006c-5968-4916-a10e-c5e7d5d57c96",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "689fe053-84c3-4cf3-874e-81a29456615d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d56f9e37-3b0c-4317-b13e-f1b3cf0c427d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7d32d5e4-35af-479c-ac0b-3f1567100f87",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e767bd55-e161-4e1a-b5c1-790fc5a77701",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d13ae39c-7cdd-46c3-80fd-50138aad611c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8c6a203d-5acf-4e39-8f68-340f4a21672a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6d366c51-71f3-41b2-89ea-86f63293f8fc",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bcee5c5b-70e6-428e-aa1e-cf6348c4b10d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4e0a7b6e-0688-41fd-9e6e-07cddb834bc3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5407bd96-44ec-4ade-b9a9-09a2b246cb65",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1a656c08-8773-4254-8b1f-12f78480f170",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2decedd3-3569-45e7-8626-bebca27a4b6c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "415d8260-7208-4efe-a835-8b8afcc5b937",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "37b1f04c-d79d-4736-917d-77bd29ed94bc",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b6a720e8-3782-4f27-aff4-c6ff951b4f0a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c761b5f2-5143-4859-83ed-273ad3ff37c5",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f557a18c-171a-451b-81fe-bd7200138197",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "00fbcc77-f255-4b85-92a4-92c42fed476b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d8e5e863-c4b1-4680-9883-fa4cb1b97815",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6d961e28-f10e-4c60-a608-5e4171db6332",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "af02e498-a60a-4e04-9ca1-a5c09a671e4d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1493ab2a-fe00-4e94-8576-d65c852c99c4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "be8a1c82-5fdc-4008-bce4-f78ffda25055",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fbdf3c32-d70d-45df-9bb3-06b33b7a6f72",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "68c45526-9535-424c-9773-be6ebb53ae88",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "32239f77-b6af-4448-8859-088f7eb9ca91",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a1c8d750-b2ef-4f88-86d6-a01944c8c638",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "324f8e52-9d18-4204-b251-36468e518d87",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "712e76c0-4751-4109-81d3-afc45f3aa035",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9853b505-fdb0-465a-bfc5-64580bfa48b9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "87915b2b-54d3-4431-9740-232f1ace7c68",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4404d6b6-9268-43a9-9d39-79e505a50c90",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d66688c1-311d-4143-af00-f77ef62919fb",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "45a5a4d2-8f44-408c-890f-b18415dad986",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "23b103f9-52b8-4995-90bc-54ae9a386643",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ec691376-1569-4a0a-bb72-dfd2ea1d8ee8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "72a72ad6-1d95-4051-bb42-9db3b88f5db5",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1ae0aee2-70b7-4199-8c9c-b28526f41d26",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ff84a33a-0427-4dcb-a297-5b64481a742d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2f76714c-da4f-47de-a90f-130931d0c4d8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "fef3ac20-d60c-4047-9648-15ddd30a20e3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "981b37c1-3360-4815-8514-feb33d83b009",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8b177eee-4a85-499e-90b2-b0c2ce23dfbd",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1d4fc202-015b-493c-9e5f-09a88a2c3860",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0b7a2f1e-96d7-4105-bfec-f6a823070aea",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c4756a31-e827-4fed-9299-7f78ec9e2be0",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6aef2dc0-e178-4779-b291-a49b6fcea430",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e01de579-1f00-40d6-b649-459fb20d1e8a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "195cf9f3-eaf5-4f21-84fa-adde9674b644",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6fdffc7c-9859-45a1-9a99-d70551c928cd",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1a182ae8-240c-4ca6-8e1d-4cce8b9c34b9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1e2905a4-664b-4e14-8500-0b531f6abb0f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1b810fb7-7d49-4395-8d64-101e28bd3990",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "dd7ced6b-27b6-4b3e-8a62-3f2102b6cc00",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a5d2a062-9d1a-4f72-acf4-f0be80e8c99a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9d156023-fbb1-4bf3-a5c6-c022e4ecfa72",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3c58e156-a03b-4cf3-ab66-43e161797178",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bf5198d0-3c15-449a-8fee-6c0009a59c4c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "23c0952c-f681-44c7-aae2-5f1cb7c84f06",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c59e3cee-0403-4469-a914-dbf265e076d3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "79b57213-a633-4ebb-b1fa-70d20f047964",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "eadefc8d-67ee-4cca-99ec-444dd0af249c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2c25330b-b7fd-4eed-a9ca-d2e9be49dfd2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5dab7242-40ce-4bad-823c-8b693472653a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "11d45366-420d-4b68-b6d8-6bdc83ade4e4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "009c1d82-a3cb-4240-bf08-cb1470d93b2e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d3c3899c-3d78-43b1-8442-843ede815c93",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "61854da5-2658-4186-af4b-853d80a19a55",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f4bf511d-0e38-4100-aa28-b705986becc8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5dd746d9-f130-4bba-bd95-b87fbf5e2075",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "35430cd6-837d-42e7-9950-894472e229dd",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "af1e16ef-a797-4bd7-a908-37f504ab9afe",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "32866651-f2b2-4845-99e8-7f17ca55e6f1",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "55a30386-1b3c-4b3d-8498-3f604b53f573",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8f22d4db-6b3a-4515-a6f5-9962b913e2c8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6f0762a6-0672-4665-928d-5710d9f50fb5",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bd9abf1b-a182-4445-8d1a-8888b710f510",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c13deca7-35b0-45ea-b873-192f4d7a6978",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3c1f4fb2-35ac-4e4d-aef0-cb92b7cea93a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4b43a101-dec0-4d93-b298-cd7fa9b5b66f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "395559ac-8162-419c-ba87-539c7ea618cd",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "32d90cac-0a34-4639-aa5f-d9b049cb1b30",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e7842424-adf8-4a09-b4c7-d18b4dc83390",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "933d627b-b1fa-43d9-9abb-3479ca8bb23c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7de82185-db00-40b8-af72-93d9225ba881",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5072426f-9c11-4b29-9d52-84bc3e42c2d9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6fdbbf78-9313-42c7-b1e3-7fe21325f42d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f6a25aa6-d092-40f9-ad6a-9829171c69ef",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6e6895a2-ef70-42ff-ad3a-cb64bc8d324a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7606fc5e-175f-456c-8e7c-d92913f0a315",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bc017136-87ec-4716-88b9-0c98eb6d27e4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3e259261-2104-423c-baf5-6d8b2ef2cdc7",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9f6b9e21-307c-4504-b5d8-fd50ed5048ae",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "7423626f-026b-47c7-81c2-043b8cddff3c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "98ff7993-c3f5-4fe5-a15e-77465bcf80db",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "30f9c83d-3ddd-450a-9432-7e75ae076562",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6056952b-9054-4ac4-b64e-dbda7f0a6b42",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3f4f0410-56e3-4429-bb0f-56726022e745",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4430ecf4-b91b-48fb-a587-5fa690dbd877",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d610a883-b8cb-458a-ac89-7db7401b96a0",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "11319957-3e97-4099-a584-ca1a616f0ae7",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "78dac682-4ef8-46b1-a6dc-57b39124d772",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1b99841e-7030-4fcc-a2ee-a14505d30557",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0b7ac3a6-eaf2-44b1-9b77-4076352d37d6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5257c171-2201-4930-8180-42f8f016e943",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6fa47121-e129-4d33-b1c8-c2d47c407230",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "689f764b-27d3-4d05-8b52-6d0b0b1e2702",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2ca7d946-9c62-496e-90f0-8b432a7eddaf",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6eed9e87-ac8d-45d8-ac19-9159cce9fb7e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1dbf31bb-3bb8-47c7-96fa-c1ca0fb2ffe2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "34ed0562-960b-4031-ba68-80b504c08db6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f8fd60a7-46e8-4557-ae95-3e4534cb2e02",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "afec5e5d-b918-4377-9e96-7d6b44a23dc9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "32cbe0d0-c983-4e4e-8584-d0b111346d0c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "28ced7c7-58da-46f1-ba0b-90483a805025",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d025cadf-07a8-4164-823f-1ae1681a528f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5273d2ed-8d39-4786-b724-681c8ed4614b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "262e4524-0949-4aeb-a03c-830671ac32bb",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "431392e6-3ef4-46a6-a7a9-04e5d2a12703",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "28f58539-6211-4f99-b56a-3a5b237c8af2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6f71972f-1ded-4e4f-833e-50d09389e5fa",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1ca1122c-6b8d-484f-a693-8066dcc0bae3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b56ba981-acfd-4cec-b911-0f6e2cbe3604",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2a30c7f9-9097-43c8-8f74-ee567bc9589d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8370fe92-ff64-4d65-8a55-77235d5b77aa",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "403d641b-13ee-4a37-9b4a-5d1f63751913",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "101d7c58-27a9-49c0-a6d3-bc2ec953faa9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "718eb3d6-2b57-478a-87c6-d34613c0ce03",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c7b4e329-dd69-4180-9ec2-fdc6615ff5ed",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5ce66109-3cff-4e35-8694-cd66602143fa",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8aa52174-b9b5-4858-aa91-b2a411e2427f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "8d1ef4e9-fba8-4ffe-866d-b46036445346",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ff63b29a-712c-4be2-8a48-1f38fd7e7c7b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f6cc8d90-7cd0-4e17-a304-3f75f29dd5d2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "40cb8345-e6b4-4733-8e26-94f20d1f1f21",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3e227eeb-e8de-4404-8ef4-a7647b44988f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0fd0a2e6-d132-4149-a135-e69cb4077d9d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6219f92a-17ba-40eb-a20c-17a6f5f4fc81",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6469b2bb-8a59-42ab-a4e5-2d3243753a0b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6a70f373-acd4-437c-9e5b-4ae09503728b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2680b015-2128-46d6-89ba-0de873fbca6b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1622a19b-564a-4a40-b475-4f2dafd287e4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b572e750-6f84-4bf2-8c36-789c83af0fe3",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "cfa508da-ac43-4bdc-8fa0-0194fc1b162f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2ad1d40b-1f9c-45c6-9761-545ad86f9951",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "78e773e0-b67d-4a35-b0fb-e6287b0513e6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4840d948-38c2-4d9f-9c5e-4113b2fbb4d4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "cfaf8e39-3375-4cca-85c3-c74d2aaf3231",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "75aa826e-dd95-4666-8769-4b7938baaa46",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "42e22bc2-b067-475f-a5ab-2e76b429d92a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0b027652-49a0-42de-8959-b444aae8e56b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "451a6013-9580-484d-94ab-7fc97dbff800",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0d6cb7aa-edc0-4ccf-91da-b10fe046f13c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0c2c2bee-9b6e-41c7-a203-0b4b4d4810ae",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "cf07b2da-904b-44e9-8330-7da2d53c128a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "26e703b6-2177-4ae2-b5eb-bd3943278ce8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "bd99aa2c-ee4c-4d8d-b539-3487fd01c635",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d8c557bb-6627-4a90-b1d8-40a8a7a451dc",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "0bb8d6f2-ff37-4bd6-8aac-e8d862447ebc",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "97fa8f2c-5356-40cb-952f-c92a099b8a3a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "35b45e80-032d-4484-aaba-7e260b0e7637",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a10323e9-7908-489a-8bb3-47865336f38d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "48913c3f-313d-4054-a108-10d7bb00564e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "2c521332-c0e8-4812-9cfd-2779d458e037",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "612443d4-cd15-422c-ac39-666a637e5042",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "53b09395-626f-4976-ad2d-dc012422b34f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c0823557-0e12-40fd-b504-abbf0aa5aa1b",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f459adbd-a463-4d5c-b7ef-9db51cfbfb48",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1bca6e84-0271-43b5-8185-bbbd621c0399",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6a461703-1ae0-4b5a-8b39-b94d7d80f1b4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "9dc3bd57-4d0a-43f4-a547-cf8463e3fda6",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "e76033f6-948f-411b-84ff-5ca48afa81cb",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "24f1c7be-7659-4640-968d-75c563251180",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "b8b71386-bc99-4c22-b327-7bfb6781af9a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "edfb00c2-d666-4b7c-adcd-814ad90af0e4",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "be35c0e9-6d11-40bc-8765-b76a8c6b9028",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "79c50faf-9a20-4b13-9435-30921dea3c4d",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c85f4105-4b8e-4a1c-9852-ccf35d1bc44e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "186d1d5c-3ee2-428c-ae49-cd03bd878d05",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "4a4eaa95-5fec-42cf-8e55-d83c7fe43295",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "26f50fb6-2e96-4dd1-b19e-81c4b0739dd8",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "c341b3b1-aaae-4b88-8baa-4f45f3adb23a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "f073e44f-d3d5-48f9-a15d-59feaa289f5c",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a7a231df-bb60-43c6-a05b-f52d901cf8ba",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5f5eb3a0-b444-4d5a-8faa-3b429d16c22a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "a98644b7-f40b-43a0-ab2e-bcd96bf0cfeb",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "3615858d-a4ea-4b41-a1ef-d5d1e095fb8a",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "38b8ca11-5f2d-4c3e-a9bf-8615c18159f1",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "43c04914-1802-4de8-a4ad-1fe456d6d21f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "d9baccd3-4edd-4821-8c94-e8ba70460d54",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "82c81f55-5bd9-44d5-bcad-8126fb2dd1b0",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "5a244e26-51ee-4fb3-bd0a-2688d8e91ba9",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "db20dee0-0d96-4ba3-a3ef-648ad3a21a8f",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "6b54f2d4-c4dc-4fba-b3df-d3c2643cce8e",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ff3a1d37-31a3-40c8-82f9-89df8382c2f2",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "ecb69368-5898-4aef-ad99-05066b20aece",
+    "reason": "Puzzle request failed: 429"
+  },
+  {
+    "fingerprint": "1a6d94fb-2c86-46f5-b8cb-a5d6758fdb46",
+    "reason": "Puzzle request failed: 429"
+  }
+]
