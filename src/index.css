@@ -29,26 +29,57 @@ body {
   color: #4b5563;
 }
 
+.stats-row {
+  margin-top: 12px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  font-size: 14px;
+}
+
+.stat.low {
+  color: #2563eb;
+  font-weight: 600;
+}
+
+.stat.high {
+  color: #dc2626;
+  font-weight: 600;
+}
+
+.search-input {
+  margin-top: 12px;
+  width: min(360px, 100%);
+  padding: 8px 12px;
+  border-radius: 10px;
+  border: 1px solid #d1d5db;
+  font-size: 14px;
+}
+
 .puzzle-list {
   display: grid;
   gap: 20px;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 }
 
 .puzzle-card {
   background: #ffffff;
   border-radius: 12px;
-  padding: 18px 18px 14px;
+  padding: 12px;
   box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
   aspect-ratio: 1 / 1;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   gap: 12px;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  width: 100%;
 }
 
 .puzzle-title {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   margin: 0 0 12px;
 }
@@ -56,7 +87,7 @@ body {
 .puzzle-meta {
   margin: 0 0 12px;
   color: #6b7280;
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .grid {
@@ -75,16 +106,93 @@ body {
   align-items: center;
   justify-content: center;
   background: #ffffff;
-  font-size: 16px;
+  font-size: 12px;
   font-weight: 600;
   color: #111827;
   border: 1px solid #e5e7eb;
   aspect-ratio: 1 / 1;
 }
 
+.puzzle-card.preview .grid {
+  border-width: 1px;
+}
+
+.puzzle-card.preview .cell {
+  font-weight: 500;
+}
+
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.modal-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 20px;
+  width: min(560px, 100%);
+  display: grid;
+  gap: 16px;
+  box-shadow: 0 20px 40px rgba(15, 23, 42, 0.25);
+}
+
+.modal-card .grid {
+  border-width: 3px;
+}
+
+.modal-card .cell {
+  font-size: 16px;
+}
+
+.modal-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.modal-close {
+  border: none;
+  background: #e5e7eb;
+  color: #111827;
+  padding: 6px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.solve-button {
+  border: none;
+  background: #111827;
+  color: #ffffff;
+  padding: 10px 16px;
+  border-radius: 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.solve-button:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
 .cell.empty {
   color: #9ca3af;
   font-weight: 500;
+}
+
+.cell.solved {
+  color: #2563eb;
 }
 
 .cell.thick-right {
