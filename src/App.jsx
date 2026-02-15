@@ -272,14 +272,15 @@ export default function App() {
         <h1>Sudoku Viewer</h1>
         <p>For the Mr Beast challenge.</p>
         <p className="contribute-link">
-          To contribute more sudokus, make a PR here{" "}
+          To contribute more sudokus, make a PR{" "}
           <a
             href="https://github.com/danicax/mrbeast_sudoku/tree/main/public/sudokus"
             target="_blank"
             rel="noreferrer"
           >
-            https://github.com/danicax/mrbeast_sudoku/tree/main/public/sudokus
+            here
           </a>
+          .
         </p>
         <div className="stats-row">
           <span className="stat low">Lowest: {lowestName || "—"}</span>
